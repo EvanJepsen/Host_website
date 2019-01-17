@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(155, 155, 155);
+    border: 5px solid black;
+
+}
+body{
+    min-width: 1000px;
+}
+a{
+    font-size: 20px;
+    color: purple;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    color: blue;
+}
+h2{
+    font-size: 30px;
+    color: blue;
+}
+p{
+    font-size: 20px;
+}
+nav{
+    border: 5px solid black;
+    text-align: center;
+    
+}
