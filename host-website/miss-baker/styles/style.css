@@ -1,6 +1,16 @@
+h1{
+    text-align: center
+}
 h2{
     color: blue;
+    text-align: center;
 }
-body{
+p{
+    text-align: center;
+}
+a{
+    text-align: center;
+}
+img{
     align-content: center;
 }
