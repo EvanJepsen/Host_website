@@ -1,6 +1,7 @@
 body{
-    padding-right: 20px;
-    padding-left: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    background-color:lavender;
 }
 h1{
     text-align: center;
@@ -8,12 +9,15 @@ h1{
 }
 h2{
     color:seagreen;
-    text-align: center;
+    text-align: left;
 }
 p{
-    text-align: center;
+    text-align: left;
 }
 a{
-    text-align: center;
+    text-align: left;
+    color: purple;
 }
-
+table{
+    float: right;
+}
