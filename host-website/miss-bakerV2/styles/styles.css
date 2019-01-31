@@ -1,0 +1,36 @@
+html{
+    background: lavender;
+}
+body{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+}
+figure{
+    float: right;
+    font-size: 15px;
+}
+img{
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
+h2{
+    color: plum;
+    font-size: 35px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    color: plum;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+footer{
+    text-align: center;
+}
